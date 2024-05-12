@@ -6,4 +6,11 @@ git pull
 #me bajo las posibles modificaciones de la gente en la rama que estoy trabajando
 #hago mis trabajos para luego subirlos
 #antes de subirlos creo que igual tengo que hacer pull
-git push
+git pull
+git add -A
+#este de arriba agrega los archivos nuevos
+git commit -m "el mensaje del commit"
+#y con el commit registramos los cambios
+# ya no me acuerdo entonces en que punto iba el push
+git push 
+#este seria para subir los commits que ya he realizado es decir puedo tener X's cantidad de commits antes de subirlos

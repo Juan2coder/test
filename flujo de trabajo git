@@ -1,0 +1,9 @@
+git checkout
+#para saber en que rama estoy
+git fetch 
+#esto revisa que este al dia con las demas versiones de la gente
+git pull 
+#me bajo las posibles modificaciones de la gente en la rama que estoy trabajando
+#hago mis trabajos para luego subirlos
+#antes de subirlos creo que igual tengo que hacer pull
+git push
